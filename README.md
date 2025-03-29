@@ -15,11 +15,14 @@ User signin with authentication using JWT.
 Folder Structure
 
 /models
+
    |-- index.js  (Main server file)
+   
    |-- /routes
        |-- product.js
        |-- signup.js
        |-- signin.js
+       
    |-- /models
        |-- product.js
        |-- user.js
@@ -27,9 +30,6 @@ Folder Structure
 Installation & Setup
 
 1. Clone the Repository
-
-git clone https://github.com/yourusername/ecommerce-api.git
-cd ecommerce-api
 
 2. Install Dependencies
 
